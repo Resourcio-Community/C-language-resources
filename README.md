@@ -1,5 +1,5 @@
 # C-language-resources
-This is an awesome project about Android Dev resources. ⚡
+This is an awesome repo about C language resources. ⚡
 
 Resources are added frequently! ⚡
 
