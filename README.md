@@ -2,6 +2,8 @@
 This is an awesome repo about C language resources. ⚡
 
 Resources are added frequently! ⚡
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/C-language-resources/)
 
 Enjoy!
 ---
