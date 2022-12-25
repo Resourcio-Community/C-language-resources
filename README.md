@@ -9,6 +9,8 @@ Enjoy!
 - [Books for C](#books-for-c):blue_book:
 - [YouTube Channels for C](#youtube-channels-for-c):incoming_envelope:
 - [Websites for C](#websites-for-c):computer:
+- [Platforms to Practice](#platforms-to-practice):smile:
+- [Best IDE for C Language](#best-ide-for-c-language):rose:
 - [Join our Community](#join-our-community):blush:
 ---
 ## Books for C
@@ -38,6 +40,25 @@ Enjoy!
 | https://techniyojan.com/2019/12/c-programming-basics-notes.html |
 | https://www.learn-c.org/ |
 | https://codeforwin.org/ |
+---
+## Platforms to Practice: 
+- [Codeforces](http://codeforces.com/contests)
+- [Codechef](https://www.codechef.com)
+- [Leetcode](https://leetcode.com)
+- [Hackerrank](https://www.hackerrank.com/dashboard)
+- [ProjectEuler](https://projecteuler.net/archives)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
+- [DailyCodingProblem](https://www.dailycodingproblem.com)
+- [UrionlineJudge](https://www.urionlinejudge.com.br/judge/en/login)
+- [Binarysearch](https://binarysearch.com/)
+---
+## Best IDE for C Language
+- [VS Code](https://code.visualstudio.com/)
+- [Dev C++](https://www.bloodshed.net/)
+- [Code::Blocks](http://www.codeblocks.org/downloads/binaries/)
+- [CLion](https://www.jetbrains.com/clion/download/#section=windows)
+- [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-cc-developers)
+- [NetBeans](https://netbeans.apache.org/download/index.html)
 ---
 ## Join our Community
 | Social Media | Link |
